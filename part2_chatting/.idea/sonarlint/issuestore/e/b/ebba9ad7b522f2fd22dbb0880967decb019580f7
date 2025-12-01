@@ -1,0 +1,80 @@
+
+F
+java:S3740³"/Provide the parametrized type for this generic.(•ğ°£
+F
+java:S3740³"/Provide the parametrized type for this generic.(•ğ°£
+F
+java:S3740¤"/Provide the parametrized type for this generic.(ËĞƒ
+F
+java:S3740§"/Provide the parametrized type for this generic.(ÔÖ½Ó
+E
+java:S3740°"/Provide the parametrized type for this generic.(ğ¦
+F
+java:S3740±"/Provide the parametrized type for this generic.(«“Ëá
+f
+java:S1192O"PDefine a constant instead of duplicating this literal "Times New Roman" 6 times.(Îšß‘
+Q
+java:S1141Á"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+C
+java:S1604I"(Make this anonymous inner class a lambda(³ïØ¶øÿÿÿÿ
+C
+java:S1604Q"(Make this anonymous inner class a lambda(Şó‡¶üÿÿÿÿ
+D
+java:S1604„"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+3
+java:S1643µ"Use a StringBuilder instead.(­’¨é
+c	java:S101¢"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(È¼ñ„
+H
+java:S1153µ"1Directly append the argument of String.valueOf().(­’¨é
+H
+java:S1153¸"1Directly append the argument of String.valueOf().(™”›½
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Éıåùÿÿÿÿ
+N
+java:S2589¾"7Remove this expression which always evaluates to "true"(Í¿Ûã
+p
+java:S1450Œ"YRemove the "jComboBox1" field and declare it as a local variable in the relevant methods.(ëõ«­
+r
+java:S1450"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450"WRemove the "jLabel11" field and declare it as a local variable in the relevant methods.(‰Ó‚©øÿÿÿÿ
+r
+java:S1450"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+w
+java:S1450"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+w
+java:S1450‘"[Remove the "jScrollPane2" field and declare it as a local variable in the relevant methods.(ŠÌ«·şÿÿÿÿ
+q
+java:S1450²"URemove the "socket" field and declare it as a local variable in the relevant methods.(ë“ä‚øÿÿÿÿ
+p
+java:S1450’"TRemove the "start" field and declare it as a local variable in the relevant methods.(ÃÁŞûÿÿÿÿ
+D
+java:S1948²"(Make "socket" transient or serializable.(ë“ä‚øÿÿÿÿ
+F
+java:S1172®"*Remove this unused method parameter "evt".(Ôÿ›çıÿÿÿÿ
+N
+java:S1135¯"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+Y
+java:S1854Î"=Remove this useless assignment to local variable "isNumbers".(ºªü’øÿÿÿÿ
+A
+java:S1172µ"*Remove this unused method parameter "evt".(ß»èÇ
+N
+java:S1135¶"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+Q	java:S125Ñ"<This block of commented-out lines of code should be removed.(œºåX
+Q
+java:S1161ß":Add the "@Override" annotation above this method signature(“–ış
+h	java:S116ı"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ•Æşÿÿÿÿ
+Q
+java:S1161…":Add the "@Override" annotation above this method signature(“–ış
+Q
+java:S1161«":Add the "@Override" annotation above this method signature(“–ış
+7
+java:S2129®" Remove this "String" constructor(â˜Ê”
+?	java:S108Ë")Either remove or fill this block of code.(ëÅ‚†
+F
+java:S1197ê"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147ù"ECombine this catch with the one at line 375, which has the same body.(¨¦Š½
+\
+java:S2147û"ECombine this catch with the one at line 377, which has the same body.(ã€ 
+[
+java:S2147ı"ECombine this catch with the one at line 379, which has the same body.(ñÎ¯%
